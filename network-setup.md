@@ -37,3 +37,17 @@
 | **PC-3**         | 210.3.14.13         | Switch 2            |
 | **Server-2**     | 210.3.14.12         | Switch 2            |
 | **Server-3**     | 210.3.14.11         | Switch 2            |
+
+
+# **New devices**
+
+*Switch 1*
+- **Connected Devices**:
+  - **PC-4**: *Devive model* - PC-PT
+  - **IP-address**: `168.90.0.15`
+  
+
+*Switch 1*
+- **Connected Devices**:
+  - **PC-4**: *Devive model* - PC-PT
+  - **IP-address**: `210.13.14.14`
